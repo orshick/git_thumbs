@@ -15,7 +15,11 @@ figure {
 	margin: 200px 50px;
 	background-color: rgba(0,0,0,0.1);
 	display: inline-block;
-	width: 300px;
-	height: 400px;
-
+/*	width: 300px;
+	height: 400px;*/
 }
+
+.tilter__image {
+	max-width: 300px;
+}
+
