@@ -1,0 +1,16 @@
+section {
+	text-align: center;
+}
+
+section.green {
+	background-color: #24c53e;
+}
+
+figure {
+	margin: 200px 50px;
+	background-color: rgba(0,0,0,0.1);
+	display: inline-block;
+	width: 300px;
+	height: 700px;
+
+}
