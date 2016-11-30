@@ -19,6 +19,10 @@ figure {
 	height: 400px;*/
 }
 
+.tilter__image {
+	max-width: 300px;
+}
+
 .tilter {
 	position: relative;
 	display: block;
